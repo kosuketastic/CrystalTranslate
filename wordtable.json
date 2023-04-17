@@ -1,0 +1,110 @@
+[
+    {
+        "ja": {
+            "word": ["私"],
+            "c_particle": "",
+            "e_particle": "は",
+            "priority": 100
+        },
+        "en": {
+            "word": ["i"],
+            "priority": 101
+        }
+    },
+    {
+        "ja": {
+            "word": ["好き","好み"],
+            "c_particle": "が",
+            "e_particle": "です",
+            "priority": 99
+        },
+        "en": {
+            "word": ["like"],
+            "priority": 101
+        }
+    },
+    {
+        "ja": {
+            "word": ["ダイヤモンド","ダイアモンド"],
+            "c_particle": "",
+            "e_particle": "",
+            "priority": 100
+        },
+        "en": {
+            "word": ["diamond"],
+            "priority": 100
+        }
+    },
+    {
+        "ja": {
+            "word": ["エメラルド"],
+            "c_particle": "",
+            "e_particle": "です",
+            "priority": 100
+        },
+        "en": {
+            "word": ["emerald"],
+            "priority": 100
+        }
+    },
+    {
+        "ja": {
+            "word": ["金"],
+            "c_particle": "",
+            "e_particle": "です",
+            "priority": 100
+        },
+        "en": {
+            "word": ["gold"],
+            "priority": 100
+        }
+    },
+    {
+        "ja": {
+            "word": ["インゴット"],
+            "c_particle": "",
+            "e_particle": "",
+            "priority": 100
+        },
+        "en": {
+            "word": ["ingot"],
+            "priority": 100
+        }
+    },
+    {
+        "ja": {
+            "word": ["翻訳"],
+            "c_particle": "",
+            "e_particle": "",
+            "priority": 100
+        },
+        "en": {
+            "word": ["translate"],
+            "priority": 100
+        }
+    },
+    {
+        "ja": {
+            "word": ["、"],
+            "c_particle": "",
+            "e_particle": "",
+            "priority": 2
+        },
+        "en": {
+            "word": [", "],
+            "priority": 2
+        }
+    },
+    {
+        "ja": {
+            "word": ["。"],
+            "c_particle": "",
+            "e_particle": "",
+            "priority": 1
+        },
+        "en": {
+            "word": ["."],
+            "priority": 1
+        }
+    }
+]
